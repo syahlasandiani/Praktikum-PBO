@@ -1,0 +1,19 @@
+// Source code is decompiled from a .class file using FernFlower decompiler.
+public class ExceptionOnArray {
+   public ExceptionOnArray() {
+   }
+
+   public static void main(String[] var0) {
+      Integer[] var1 = new Integer[4];
+
+      try {
+         var1[2] = 11;
+         var1[4] = 10;
+      } catch (ArrayIndexOutOfBoundsException var6) {
+         var6.printStackTrace();
+      } finally {
+         System.out.println("clean up code...");
+      }
+
+   }
+}

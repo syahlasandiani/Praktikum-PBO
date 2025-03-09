@@ -1,0 +1,15 @@
+// Source code is decompiled from a .class file using FernFlower decompiler.
+public class Asersi2 {
+   public Asersi2() {
+   }
+
+   public static void main(String[] var0) {
+      double var1 = 0.0;
+
+      assert var1 > 0.0 : "jari-jari tidak boleh nol!!!";
+
+      lingkaran var3 = new lingkaran(var1);
+      double var4 = var3.hitungKeliling();
+      System.out.println("Keliling lingkaran = " + var4);
+   }
+}

@@ -1,3 +1,9 @@
+/*  Nama File   : Persegi.java
+ *  Deskripsi   : 
+ *  Pembuat     : Syahla Sandiani / 24060123130066
+ *  Tanggal     : 13 Maret 2025
+*/
+
 public class Persegi extends BangunDatar {
     private double sisi;
 

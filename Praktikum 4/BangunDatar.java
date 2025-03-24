@@ -1,3 +1,9 @@
+/*  Nama File   : BangunDatar.java
+ *  Deskripsi   : 
+ *  Pembuat     : Syahla Sandiani / 24060123130066
+ *  Tanggal     : 13 Maret 2025
+*/
+
 public class BangunDatar{
     private int jmlSisi;
     private String warna;

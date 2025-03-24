@@ -1,3 +1,9 @@
+/*  Nama File   : MBangunDatar.java
+ *  Deskripsi   : 
+ *  Pembuat     : Syahla Sandiani / 24060123130066
+ *  Tanggal     : 13 Maret 2025
+*/
+
 public class MBangunDatar {
     public static void main(String[] args) {
         BangunDatar bangunDatar = new BangunDatar();

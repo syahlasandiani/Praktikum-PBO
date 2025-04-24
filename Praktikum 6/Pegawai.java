@@ -1,3 +1,8 @@
+/*  Nama File   : Pegawai.java
+ *  Deskripsi   : Class Pegawai
+ *  Pembuat     : Syahla Sandiani / 24060123130066
+ *  Tanggal     : 24 April 2025 */
+
 public class Pegawai {
     protected String nama;
     protected int gajiPokok = 5000000;
